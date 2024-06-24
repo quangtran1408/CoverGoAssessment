@@ -184,6 +184,8 @@
     <Content Include="Resources\Logs\DontDeleteIt.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="Resources\DriverConfig.json" />
+    <None Include="Resources\Selector.json" />
     <None Include="test.runsettings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>test.Designer.cs</LastGenOutput>
